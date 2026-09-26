@@ -13,6 +13,9 @@ The system replaces manual scrutiny, paper correspondence, and verification bott
 
 ---
 
+## 🚀 Live Demo
+Live on https://prerna-st-tribal-scholarship-ai.vercel.app/
+
 ## ⚡ Key Highlights & Core Capabilities
 
 - **🌿 Netra-ST AI OCR & Tamper Forensics (v4.2)**:
